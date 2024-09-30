@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest.cpp
+D:\University\ПДС\Lab_1\№2\Lab_1_2.cpp(38,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+     Creating library D:\University\ПДС\Lab_1\№2\x64\Debug\UnitTest.lib and object D:\University\ПДС\Lab_1\№2\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> D:\University\ПДС\Lab_1\№2\x64\Debug\UnitTest.dll

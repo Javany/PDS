@@ -1,0 +1,5 @@
+﻿  UnitTest.cpp
+D:\University\ПДС\Lab_2\№1\№1.cpp(13,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\University\ПДС\Lab_2\№1\№1.cpp(36,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library D:\University\ПДС\Lab_2\№1\x64\Debug\UnitTest.lib and object D:\University\ПДС\Lab_2\№1\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> D:\University\ПДС\Lab_2\№1\x64\Debug\UnitTest.dll

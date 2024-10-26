@@ -1,0 +1,4 @@
+﻿  №1.cpp
+D:\University\ПДС\Lab_10#\№1\№1.cpp(31,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\ПДС\Lab_10#\№1\№1.cpp(45,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  №1.vcxproj -> D:\University\ПДС\Lab_10#\№1\x64\Debug\№1.exe

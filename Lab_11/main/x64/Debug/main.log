@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\University\ПДС\Lab_11\main\main.cpp(35,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\University\ПДС\Lab_11\main\main.cpp(59,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.vcxproj -> D:\University\ПДС\Lab_11\main\x64\Debug\main.exe
